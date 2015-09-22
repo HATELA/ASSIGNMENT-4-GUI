@@ -5,13 +5,13 @@ public class RandomNumbersSecure {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int die1 = 0;
-		int die2 = 0;
-		int dice = 0;
+		//Dint die1 = 0;//
+		//Dint die2 = 0;//
+		//Dint dice = 0;//
 		
 		
 		
-		dice = die1 + die2;
+		//dice = die1 + die2;//
 		
 		System.out.println(rolldice(2,6));
 		
